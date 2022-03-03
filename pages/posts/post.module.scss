@@ -1,4 +1,4 @@
-@use 'sass:color';
+@use "sass:color";
 
 .title {
   font-size: 5rem;
@@ -58,4 +58,8 @@
 
 .content img {
   max-width: 100%;
+}
+
+.content a {
+  text-decoration: underline;
 }
